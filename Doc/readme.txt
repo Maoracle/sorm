@@ -1,1 +1,1 @@
-在src下简历db.properties
+在src下建立db.properties
