@@ -1,0 +1,1 @@
+在src下简历db.properties
